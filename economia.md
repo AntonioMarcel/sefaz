@@ -81,6 +81,33 @@ A emissão excessiva de moeda tende a elevar os preços e gerar inflação.
 
 ---
 
+# Curva de demanda 
+
+## Bens inferiores
+- Aumenta a renda, demanda cai (deslocamento negativo - é o comportamento contrário). Ex. Miojo.
+- É deslocamento da curva inteira.
+![alt text](image-2.png)
+
+## Bens de giffen 
+- Aumenta o preço, aumenta a demanda (curva de demanda crescente). Quebra a lei da demanda. 
+- É deslocamento na curva.
+![alt text](image-3.png)
+**Exemplo**
+- Cesta de consumo de ovo e carne p/ uma situação de restrição orçamentária. 
+- Cai o preço do ovo, diminui a demanda por ovo (relação crescente) e aumenta a de carne.
+- O bem de giffen é o ovo nesse caso.
+
+**Todo bem de giffen é um bem inferior**
+- Note que caso aumente a renda da família, o consumo do ovo vai cair e a de carne vai aumentar ainda mais.
+- Ou seja, o ovo é um bem de giffen e um bem inferior.
+
+**Nem todo bem inferior é um bem de giffen**
+- Para um bem ser de giffen é preciso cumprir condições muito específicas (como a do exemplo: poucos substitutos, ocupar fatia grande do orçamento, etc).
+- Assim, aplicar a relação contrária de um bem inferior p/ um bem de giffen não é tão fácil.
+- Por exemplo, para o miojo, p/ uma mesma renda, caso o preço diminua, a demanda provavelmente vai aumentar. Não é bem de giffen, dadas as mesmas condições que utilizamos antes.
+
+--- 
+
 # Ajuste de Preços
 
 ## Quando a oferta é maior que a demanda
@@ -117,26 +144,3 @@ A emissão excessiva de moeda tende a elevar os preços e gerar inflação.
 - P/ um mesmo nível de preços, traçando uma reta sobre um nível mais alto de preços, temos uma situação de excesso de oferta.
 - Fazendo o mesmo raciocínio, p/ um nível menor de preços, temos uma situação de excesso de demanda.
 - A economia se organiza ao longo das curvas, até chegar a um ponto de equilíbrio em termos de preço e quantidade.
-
-## Bens inferiores
-- Aumenta a renda, demanda cai (deslocamento negativo - é o comportamento contrário). Ex. Miojo.
-- É deslocamento da curva inteira.
-![alt text](image-2.png)
-
-## Bens de giffen 
-- Aumenta o preço, aumenta a demanda (curva de demanda crescente). Quebra a lei da demanda. 
-- É deslocamento na curva.
-![alt text](image-3.png)
-**Exemplo**
-- Cesta de consumo de ovo e carne p/ uma situação de restrição orçamentária. 
-- Cai o preço do ovo, diminui a demanda por ovo (relação crescente) e aumenta a de carne.
-- O bem de giffen é o ovo nesse caso.
-
-**Todo bem de giffen é um bem inferior**
-- Note que caso aumente a renda da família, o consumo do ovo vai cair e a de carne vai aumentar ainda mais.
-- Ou seja, o ovo é um bem de giffen e um bem inferior.
-
-**Nem todo bem inferior é um bem de giffen**
-- Para um bem ser de giffen é preciso cumprir condições muito específicas (como a do exemplo: poucos substitutos, ocupar fatia grande do orçamento, etc).
-- Assim, aplicar a relação contrária de um bem inferior p/ um bem de giffen não é tão fácil.
-- Por exemplo, para o miojo, p/ uma mesma renda, caso o preço diminua, a demanda provavelmente vai aumentar. Não é bem de giffen, dadas as mesmas condições que utilizamos antes.
